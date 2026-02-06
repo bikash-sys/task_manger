@@ -1,0 +1,7 @@
+{
+  "name": "Aura: Autonomous Universal Routine Assistant",
+  "description": "A comprehensive desktop application for daily planning, habit and goal management, and academic tracking, featuring Aura, a conversational AI assistant powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
