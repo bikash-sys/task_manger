@@ -100,8 +100,7 @@ const App: React.FC = () => {
       </main>
 
       <div className="hidden md:block fixed bottom-2 right-24 text-right text-xs text-on-surface-secondary/50 pointer-events-none">
-          <p>Made in India</p>
-          <p>Made by Gusain Studio</p>
+          <p>Made in Hostel</p>
       </div>
 
       {/* AI Assistant FAB */}
